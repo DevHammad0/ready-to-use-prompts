@@ -4,6 +4,42 @@ This repository contains **ready-to-use AI Studio prompts** for various prompt e
 
 ---
 
+## Visual & Video Prompt Exercises
+
+### 1. Nano Banana – Neon Poster
+
+**Task:** Create a visual poster.
+
+**Prompt Example:**
+
+```
+Make this look like a neon coffee shop poster with a pink background.
+```
+
+**Instructions for Students:**
+
+* Paste the prompt into your AI image generation tool.
+* The output should be a bright, neon-style poster with a coffee shop vibe and a pink background.
+* Experiment with slight variations like “add coffee beans” or “include a neon sign with the text ‘Nano Banana’” to see how prompts affect results.
+
+---
+
+### 2. Veo3 – Promo Video  
+
+Use [Veo3 on Flow](https://labs.google/fx/tools/flow)  
+
+
+**Task:** Generate a short promotional video.
+
+**Prompt Example:**
+
+```
+Create an 8-second promo video for a new iced latte.  
+Show students chatting, coffee being served, and close-up latte art.
+```
+
+---
+
 ## Table of Contents
 
 1. [Prompt Coach](#prompt-coach)
